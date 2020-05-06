@@ -1,0 +1,140 @@
+This is a text document that describes some hopefully good game ideas, inside (or outside) of Minecraft!
+If you find this and you can make any of these come true, PLEASE do. I can't make everything myself but would love to see these ideas come to life.
+(but notify me so i can play the games, thanks)
+
+--------------------------------------------------
+"MAP_NAME"
+
+MESSAGE.WELCOME.1
+MESSAGE.WELCOME.2
+
+TITLE.OBJECTIVE
+
+OBJECTIVE.GOAL
+OBJECTIVE.EXPLAINATION
+OBJECTIVE.TIP
+
+TITLE.TIP
+
+TIP.1
+TIP.2
+TIP.3
+
+TITLE.RULES
+
+RULE.1
+RULE.2
+RULE.3
+RULE.4
+
+RULE.FUN
+
+MESSAGE.END
+MESSAGE.CREATOR_NAME
+-----------------------------------------------------
+The Alchemists
+
+Create custom potions that give effects and points!
+You have to gather ingredients (and you can empty fields for others) to make potions.
+You have a limited number of bottles (can be set per game); these are used for all brewing.
+Cheating is possible: you can remove a potion earlier, add less ingredients, or add cheaper ones.
+ This may get you caught by the Arch-Mage, but they do give the same amount of points...
+ They may also give the wrong effects!
+You get points based on how many potions you've made, and how well you've made them.
+
+POTIONS
+Classic - Brewing Stands, give normal effects (health, speed, strength)
+Modern - Brewing Boxes, give special effects (glowing, luck, haste)
+Ancient - Brewing Pots, give weird effects (vision, knowledge, stealth)
+
+MODIFIERS
+Life - some ingredients are quite dangerous to collect
+Saturation - running around is very exhausting
+Hydration - drinking potions restores a little, Water Bottles refill it
+------------------------------------------------------------------------------------------------------------------------
+The Crystals: top-down action game (open-world?) where you have to collect Elemental Crystals to upgrade your wand
+You need both the Spell and the Crystal to cast the spell
+  Example: Fire Crystal lets you cast Firebolt, Flamethrower, Fireball etc
+  	But you still need the books for that!
+
+Fire, Earth, Water, Air
+Life, Death, Lightning, Ice
+Metal, Mystic, Light, Dark
+
+TIME
+Can manipulate the "fabric" of time. Stopping enemies or yourself in their tracks, reversing processes...
+However, Time spells are fragile. Controlling the Fabric takes precision and care, and any misstep may break the spells.
+
+ENERGY
+Can activate any mechanism without any constraints. Light, electricity, movement...
+But Energy exists in many forms. When not dealt with properly, they may turn into each other, and not give desirable outcomes.
+
+MATTER
+Can change the very substance of atoms. Turning metal into gold and weapons into food...
+That having said, Matter is everywhere. Recklessy changing matter may target environment, friends, or even yourself by accident.
+
+SOUL
+Can control any living being. Illusions made real, powers weakened... soul ripped out means death.
+Souls are extremely unstable when not in the right conditions. They cannot be easily controlled without the risk of instabilizing.
+
+Everything consists out of etherium...
+TIME is very, very weak etherium that flows through the entire universe. Each part itself is too weak to influence anything, but together they make the world move.
+ENERGY is weak etherium that flows quickly or slowly through processes. They make things move or act as charged particles.
+MATTER is concentrated etherium that manifests itself into atoms. The more concentrated, the heavier the element. This is an extremely stable form.
+SOUL is very tight and concentrated etherium that's only stable when held together by sufficient energy and matter. It makes being sentient; when the stability is taken away, the Soul collapses into energy, also known as "Soul Split".
+------------------------------------------------------------------------------------------------------------------------
+"The Reset Button"
+Loot, block/entity placement, and a lot of other things are random. There is a button hidden, the Reset Button, that resets and re-randomizes all loot.
+The goal is to get the most points by doing something with the loot. Resetting gives you 10 points for free.
+If you go too well, people might notice and reset, forcing you to rething your strategy...
+The game ends after a certain amount of resets, like 5-10 or 10-20. How many? You don't find out until you're there. Spare your resets... or don't and hope you win with the reset points.
+
+------------------------------------------------------------------------------------------------------------------------
+"Crossfire"
+A map about crossbows! Collect arrows and valuable crossbows with different effects. Inflict arrows with special effects!
+
+A few ideas for crossbows:
+- [Air] Blowgun: launches you in the other direction you shot
+- [Water] The Streamline: guide the arrows
+- [Earth] Rock Smash: extra knockback. But heavy!
+- [Ice] Frost Blast: shoots mutliple arrows that slow down
+- [Lightning] Blitzkrieg: shoots very quickly, but with little power
+- [Time] Clock Tock: allows you to stop arrows mid-air and let them continue on demand
+- [Metal] Steel Storm: ???
+- [Plant] Vine Wiper: shoot a vine that rapidly pulls you in
+- [Force] 
+- [Fire] The Crossfire: deals amazing damage, but sets you on fire!
+
+Update: some bitch already took the name.
+
+------------------------------------------------------------------------------------------------------------------------
+"Baby Steps"
+
+A parkour map, but you don't play it. Instead, you make an AI that plays it for you.
+Can be expanded with AI that doesn't know the jumps yet (machine learning!), frame-perfect jumps, turn-based parkour, competing AI's etc etc
+Maybe even let players race the AI and see how long it takes for the computer to catch up.
+------------------------------------------------------------------------------------------------------------------------
+"RAID"
+
+RANDOM LARGE DUNGEON
+NOT HARD DIFFICULTY
+MANY ITEMS AND TREASURE
+WEAPONS! ARMOR! CROSSBOWS! POTIONS!
+KILL THE BOSS!
+
+RAAAAAAAAAAAAAAID!
+
+(just a large fast-paced dungeon crawler. There is no right or wrong. Only chaos.)
+
+------------------------------------------------------------------------------------------------------------------------
+Something like Slay the Spire. Or just any card game. Card games are extremely underrepresented. They can't be THAT hard to make, right?
+You can like do Mine cards, Craft cards, I don't know. Plenty of material to have fun with.
+------------------------------------------------------------------------------------------------------------------------
+Maps to Review, Remake, Remaster:
+- TNTsweeper
+- Don't Press The Button
+- I Have A Quest, Ion
+- Elemental Realms
+- Far And Wide
+- Someone is Playing | Anyone is Playing
+

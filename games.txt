@@ -1,0 +1,60 @@
+This is a text document that describes some hopefully good game ideas, outside of Minecraft!
+If you find this and you can make any of these come true, PLEASE do. I can't program myself but would love to see these ideas come to life.
+(but notify me so i can play the games, thanks)
+
+--------------------------------------------------
+"Full Gear"
+Traditional turn-based hardcore roguelike... in steampunk style!
+(Think of Skyrim's Dwemer Ruins style, but as a roguelike.)
+- You are an engineer in a steam-powered dungeon, looking for the legendary Pepertuum Mobile that powers the entire dungeon
+- Power up flamethrowers, steam-machines, frost blasters, high-pressure guns, and steam-powered mechs
+- Fight both mechanical enemies (spiders, humanoids, snipers) and things from flesh and blood (cave goblins, dwarf engineers, human scientists)
+- Only three floors, but they're all really big with multiple minibosses
+- Use crazy gadgets like hourglasses, goggles, lockets, guns, pipes and hats
+- Items have rarites that determine how good they are: Copper, Brass, Silver, Gold, Titanium
+
+--------------------------------------------------------
+"Geo"
+You are an expert (with a Master's and PhD and all) geologist and geographer "Geo". You live on a (very big!) island named Shift Isle.
+The name comes from the fact that, no matter how hard people try, the place is IMPOSSIBLE to map. Roads, buildings and even entire cities keep shifting...
+You are on a study to gather all information, and finally make a complete map of the island. There's a large problem: nothing points in the right direction.
+Satellite and plane pics: destroyed and/or invalid. Shift: never observed by anyone. You can never get high enough to see the while island yourself
+with current technology either. Where do you even start?!
+
+As it turns out... a lot of people are actually part of a giant conspiracy to keep Shift shifting. They have giant terraformers under the island,
+that are capable of moving anything to anywhere. They check or the coast is clear, steer away anyone potentially watching, then move things off slowly.
+High-ranked officials, geologists and other cartographers are all in on this, to keep tourists coming, recieve money from governments, and maybe even destroy things.
+--------------------------------------------------
+"Blitzkrieg"
+Into the Breach, but with hexagons, heights, more mechs/enemies every turn, and only 3 turns.
+
+it's not a ripoff! shut up!
+
+--------------------------------------------------
+Passive: Do whatever you want, they won't attack you ever. Cats, sheep, rocks.
+Allied: They help you in battle! And won't backstab. Most of the time. Friends, teachers, escorts.
+Friendly: Willing to give you help, but still easy to piss off. Local population.
+Neutral: Not interested in any side. Might trade, might betray. Most traders and worksmen.
+Fiended: Doesn't like you and won't give you stuff. Not always attacking. Local population when angered, and jealous people.
+Hostile: When they see you, they'll try to harm you, guaranteed. Thieves, beasts, dragons?
+Active: They actively hunt you down to kill you. The absolute worst. Bounty hunters, overlords, and general arch enemies.
+--------------------------------------------------
+A roguelike where everything seems normal: you need to escape a large complex, striking down enemies, finding gear, and reaching the final boss.
+However, the more you play, the less people are willing to fight anymore. Even bosses try to talk to you instead.
+
+At the end, after the final boss, you look in a mirror, and it turns out you're the lunatic that punched people until they simply fell down. A severe mental illness caused you to think that the entire world is against you, when in reality, you are against the entire world.
+
+This is the worst idea on the list but still worth noting down i guess
+--------------------------------------------------------
+"CORE"
+
+You are a famous researcher that's discovering the secrets of the Earth's core. Unfortunately, due to a bacteria, your entire team is sick. You've already had it though, so you decide to continue on the progress. The facility is almost empty, and while the many shafts of water/food supplies, mechanical wonders, and resources to power the whole thing are still manned, safety checks were a while ago...
+You enter the extremely rapid lift to the first layer, Outer Shell.
+The cable breaks!
+Eh. Due to your extremely miraculous suit you're wearing, you fell for roughly 7 km, landing unharmed. But instead of deciding to go back, this is the ultimate excuse to finish the job: find the Inner Core!
+
+You're equipped with a suit that completely protects you from heat as strong as the sun (nanobots or whatevs), some plasma guns, a strong water/food/electricity network all the way until the Outer Core, and a very weird personality that keeps talking to himself. Communication with the upper world is possible as long as there's a nearby Groundalite, the rock version of Satillites, working properly. Really nothing much to worry about.
+
+Go through many different types of molten earth, find new curious creatures crawling out of the rocks, take pictures and use your strong drones to carry findings!
+There's Outer Crust - Inner Crust - Outer Mantle - Inner Mantle - Outer Core - Inner Core (final boss)
+The Inner Core is a giant ball of lava that kinda sorta contains a god. Very odd. You eventually, after many phases, beat him by turning him into stone by opening the Mariana Trench!
