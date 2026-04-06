@@ -2,49 +2,166 @@ This is a text document that describes some hopefully good game ideas, outside o
 If you find this and you can make any of these come true, PLEASE do. I can't program myself but would love to see these ideas come to life.
 (but notify me so i can play the games, thanks)
 
---------------------------------------------------
-"Full Gear"
-Traditional turn-based hardcore roguelike... in steampunk style!
-(Think of Skyrim's Dwemer Ruins style, but as a roguelike.)
-- You are an engineer in a steam-powered dungeon, looking for the legendary Pepertuum Mobile that powers the entire dungeon
-- Power up flamethrowers, steam-machines, frost blasters, high-pressure guns, and steam-powered mechs
-- Fight both mechanical enemies (spiders, humanoids, snipers) and things from flesh and blood (cave goblins, dwarf engineers, human scientists)
-- Only three floors, but they're all really big with multiple minibosses
-- Use crazy gadgets like hourglasses, goggles, lockets, guns, pipes and hats
-- Items have rarites that determine how good they are: Copper, Brass, Silver, Gold, Titanium
+--------------------------------------------------------
+A roguelike where all enemies are controlled by necromancers. Killing them causes them to regenerate after a while. Kill the local necromancers to stop this.
+Do you fight enemies, causing them to always become stronger? Or ignore fights and take the hits?
+
+--------------------------------------------------------
+Nothing Beyond This Point.
+
+More ideas:
+	- Alight (primary): deal damage in a small area around yourself. No knockback, but grants a brief invincibility window.
+	- Pinspike (secondary): lob a rod, that gets stuck in enemies and slows them down. Hold down to explode them all at once in a radius.
+	- Warp (movement): move your cursor anywhere, then teleport to it. Deal damage around your original location.
+	- Scorching Ash (special): flamethrower. Hold to deal continuous damage. Switches color based on Rod spent
+
+Bonus, if I have enough time (all require paying a lot of attention):
++ The Runes: The Fracture ("Electric God"). It's The Electric God, now in real-time and with better music!
++ Leaking End: The Zone ("Halved Sea"). A Water Spirit, an investigator, collecting enemies from around the Void.
++ The Impact: The Heat ("Fire Fighters"). Raimor's Image coming down
+- Crushed Pit: The Nail ("Oldest Ore"). A rocky spider, revived, that remembers Dionae's first Obliterator. Shut down by the One and the Draw.
+	Unlock: Grab/carry the Pit's Wireframe. Use it to destroy 5 Toolboxes (plus one free) to repair it.
+	Gimmick: moves walls around that are required to dodge some large attacks.
+	Reward: ???
+
+
+Side DLC or something similar: Black Horizon.
+	Play as a void-revived Evoker, after the Obliterator went off. Most of the Void is completely empty.
+	Whatever remains is metal, tools, machinery. Your combat is limited. More puzzle-focused
+	Instead of aiming, one stick is dodge, and you always attack where you're facing.
+	Room layout is different. Navigate using special tools.
+		Sextant: allows you to determine your rough position on the map.
+		Satellite: shows your position on the map.
+		Central Beacon: central point providing directions.
+		Messengers in morse code can be used to send signals to far ends.
+		Flare: attracts nearby enemies
+		Lamps: make light in specific directions. Point to points of interest.
+		???: fasttravel, hold to keep moving until you hit something.
+		Chronometer? Compass?
+	Combat is reworked into more dodging and less risk.
+		Primary: Summon Axe (alt: sword)
+		Secondary: Crossbow. Arrows recharge when hitting with axe. With an upgrade, turns into Hookshot / Multishot.
+		Movement: sidestep.
+		Special: Earthshatter, a faster Redirect
+	And there's much more puzzles.
+		Main abilities can be used to move stuff around
+		Mage Hand: floating hand that can flip switches
+
+--------------------------------------------------------
+There are three types of entities:
+- Flesh, who must consume each other to live
+- Machine, who must avoid bugs and only have a stream of energy
+- Divine, which to sustain itself, only not need to sin.
+
+You thought you were Flesh. After too long in the desert without dying, you suspect you may be Divine.
+Explore how this world works. What is sin? How do you get energy? Which lifeform can take over the world easiest?
+
+--------------------------------------------------------
+Working title: Gleambent
+
+After a wild party, in which you died from alcohol poisoning, you have been "revived" into some pocket dimension.
+You are unable to leave until you have "solved the enigma", whatever that means.
+"Take care of this lantern. Failing is not an option. I will see you, when you're ready."
+But something seems off. Why are these machines not activated? Why does the Watcher know nothing about you?
+Even if you find the enigma... you might never solve it.
+
+Metroidvania with an Outer Wilds-like structure.
+You are an Evoker on floating islands. Use an red/orange (?) lantern. Learn new tricks to get further.
+Your weapon is a lantern and your arms. Your health is time: run out and reset to the start.
+Pressure plants and burnable objects require holding your lantern. Puzzles!
+Permanent progress is only knowledge, and kept in a logbook. Still, patterns and codes stay the same.
+ 
+Dash, punch, swing and block through enemies. Which ones are dodgable or can be tricked?
+	You have a move called Petrify, for which you turn to stone and become invincible.
+Machines to activate, changing entire areas.
+	Flamebringer (fire), Stormbringer (lightning), Doombringer (destruction).
+	Find a machine to permanently learn a Constellation. Use it to activate it.
+	Activating a Machine grants you new abilities for that run.
+Constellations to learn, with various effects.
+	Fire Symbol
+	Storm Symbol
+	Doom Symbol
+	Flicker of Time: stops enemies in their tracks (can be used for pressure plates etc)
+	Flicker of Ether
+	Flicker of Force
+	White Star
+????? (something else to find, like items?)
+
+Find the White Star constellation, then find the Doombringer machine, then find the ?????.
+Face the Watcher.
+Break free.
+
+--------------------------------------------------------
+A Metroidvania where you steer a boat through a crumbling city.
+All abilities are boat-related.
+There is no combat.
+
+--------------------------------------------------------
+A Radiovania.
+Carry a radio, listen to the universe.
+
+You have a cool portable radio, that you upgrade so it can sense more frequencies. (like from the villains!)
+
+Different songs on the radios, playing in different areas, give abilities, hints, and lore
+Combine radios/songs/frequencies to make new songs and new abilities!
+
+Practical use cases:
+- Some rooms are dark and you need to find the radio that has the song giving instructions
+- In the same vein, some songs give specific puzzle instructions
+
+The plot is that some guy is giving everyone TVs.
+
+--------------------------------------------------------
+"Light Reports" (?)
+
+You're an information trader. You trade information.
+People buy information off you in the form of lightbulbs. You pay people for their information. It's only fair.
+It's also far, far more efficient than writing it all down.
+
+But soon, the ethics come rolling in. Will you buy military secrets? And then sell them? To who?
+Will you take away the last memories of someone struggling to survive?
+Will you use some information yourself, to topple the government or scam people?
+
+Extra problems roll in over time. Certificats for studies can be transferred, but how do you know they're real?
+What if someone has too much information and short-fuses, will you be responsible for their death?
+Can information make you go mad? Can you extract too much? Is there crucial information that cannot be re-learned?
+
+One day, a customer walks in claiming to have seen something terrifying, something... otherworldly.
+
+It's time to consider how much you really want to know...
+
+--------------------------------------------------------
+Horror game with things in the "Carson Dellosa" artstyle. Terrifying images of a smiling child telling you to not move.
+Different horrors have different instruments, which combine when the monsters merge.
+
+Eyes are watching
+Ears are listening
+Mouth is closed
+Hands are still
+Feet are quiet
+Brain is thinking
+
+do not stop paying attention.
+"They're Here For You"
+
+Mix in some social anxiety things. Man going back to an old school and immediately getting 'nam flashbacks. Cue horror sequence. No jumpscares.
+Ending is people supporting you and all that stuff, giving the title a completely different vibe. People are here to help you.
+
+So stop running.
+This is not who you are.
 
 --------------------------------------------------------
 "Geo"
 You are an expert (with a Master's and PhD and all) geologist and geographer "Geo". You live on a (very big!) island named Shift Isle.
 The name comes from the fact that, no matter how hard people try, the place is IMPOSSIBLE to map. Roads, buildings and even entire cities keep shifting...
 You are on a study to gather all information, and finally make a complete map of the island. There's a large problem: nothing points in the right direction.
-Satellite and plane pics: destroyed and/or invalid. Shift: never observed by anyone. You can never get high enough to see the while island yourself
-with current technology either. Where do you even start?!
+Satellite and plane pics: destroyed and/or invalid. Shift: never observed by anyone. You can never get high enough to see the while island yourself with the current technology either. Where do you even start?!
 
-As it turns out... a lot of people are actually part of a giant conspiracy to keep Shift shifting. They have giant terraformers under the island,
-that are capable of moving anything to anywhere. They check or the coast is clear, steer away anyone potentially watching, then move things off slowly.
+As it turns out... a lot of people are actually part of a giant conspiracy to keep Shift shifting. They have giant terraformers under the island, that are capable of moving anything to anywhere. They check or the coast is clear, steer away anyone potentially watching, then move things off slowly.
 High-ranked officials, geologists and other cartographers are all in on this, to keep tourists coming, recieve money from governments, and maybe even destroy things.
 --------------------------------------------------
-"Blitzkrieg"
-Into the Breach, but with hexagons, heights, more mechs/enemies every turn, and only 3 turns.
-
-it's not a ripoff! shut up!
-
---------------------------------------------------
-Passive: Do whatever you want, they won't attack you ever. Cats, sheep, rocks.
-Allied: They help you in battle! And won't backstab. Most of the time. Friends, teachers, escorts.
-Friendly: Willing to give you help, but still easy to piss off. Local population.
-Neutral: Not interested in any side. Might trade, might betray. Most traders and worksmen.
-Fiended: Doesn't like you and won't give you stuff. Not always attacking. Local population when angered, and jealous people.
-Hostile: When they see you, they'll try to harm you, guaranteed. Thieves, beasts, dragons?
-Active: They actively hunt you down to kill you. The absolute worst. Bounty hunters, overlords, and general arch enemies.
---------------------------------------------------
-A roguelike where everything seems normal: you need to escape a large complex, striking down enemies, finding gear, and reaching the final boss.
-However, the more you play, the less people are willing to fight anymore. Even bosses try to talk to you instead.
-
-At the end, after the final boss, you look in a mirror, and it turns out you're the lunatic that punched people until they simply fell down. A severe mental illness caused you to think that the entire world is against you, when in reality, you are against the entire world.
-
-This is the worst idea on the list but still worth noting down i guess
+"Five Two One"
+A game where the villain is essentially SCP 2521. https://scp-wiki.wikidot.com/scp-2521
 --------------------------------------------------------
 "CORE"
 
@@ -58,3 +175,26 @@ You're equipped with a suit that completely protects you from heat as strong as 
 Go through many different types of molten earth, find new curious creatures crawling out of the rocks, take pictures and use your strong drones to carry findings!
 There's Outer Crust - Inner Crust - Outer Mantle - Inner Mantle - Outer Core - Inner Core (final boss)
 The Inner Core is a giant ball of lava that kinda sorta contains a god. Very odd. You eventually, after many phases, beat him by turning him into stone by opening the Mariana Trench!
+--------------------------------------------------------
+Crystallize
+
+A small cozy village game set in forever autumn in the mountains, where you play as a data analyst that secretly makes Rainbow Crystals, a super sweet candy that's officially forbidden, but he has an underground network so he sells it to kids.
+The core gameplay loop is maintaining your house via various chores (microgames), making Rainbow Crystals and selling them at events, and chatting with villagers while hiding your identity.
+Linear RNG with a campaign, which you lose if you get caught (either by letting your house rot or someone finding out your network), and you win once you win a national contest on best candy, legalizing it again. 
+--------------------------------------------------------
+
+Cringy Stand Ideas i thought of
+
+- Seekers: gemstones with physical or energetic form. Can cling onto anything, allowing the user to track their location via the gemstones. User can convert pure gemstones into Seekers to gain more tracking devices.
+- Eyes of Light: angel-like floating Stand with two powerful light arms and three eyes. Each eye controls a part of the body. Very short range and cannot pierce anything, but does do a lot of knockback.
+- The Creator: the user can engineer tiny machines like guns, flamethrowers and shield generators, made from ethereal parts. They don't stay up long and disappear when too far away.
+- Dilution Alert: no visible form. When the user is in danger, time slows down for everything except them. More danger means more slowdown; mortal danger stops time altogether. Takes the form of a golden skull clock.
+- Quantum Vines: allows the Stand to cling onto projectile throwers, making the projectile go at infinite speed. They retains their normal impact power, however. More speed means more displacement over time due to the rules of uncertainty.
+- Fading Fading: random parts of your body become intangible, no longer interacting with the real world. Sometimes you drop something (intangible hand) or fall through the floor a bit (intangible foot). No effect on your body functions, though.
+- Steampunk: you feel no pain, and all physical/mental damage has reduced impact. Knife slashes, sonic booms and poisons won't make you feel a thing, but your body is still vulnerable to dying from them.
+- Ruby Miracle: villain's Stand. Can use both hands to "bless" one thing; when this thing is broken or killed, it will automatically return to its unbroken form. Additionally, has good strength, infinite range, does not act autonomously, and can be called back at any time.
+- Shadowfang: ACTUAL villain's stand. Extend your punches with phasing shadow attacks, dealing devastating damage at high speed and great range. Can also grab objects/people through walls and propel yourself through walls.
+
+
+
+

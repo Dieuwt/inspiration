@@ -3,6 +3,95 @@ If you find this and you can make any of these come true, PLEASE do. I can't mak
 (but notify me so i can play the games, thanks)
 
 --------------------------------------------------
+"Quartz Rush".
+
+Ruby Caverns-like dungeon, with a 5x5x5 grid of 5x5x5 block rooms. Spawn in the middle of the bottom floor.
+Your goal? Arm yourself, kill minibosses, and defeat the boss on the middle of the top floor to win.
+
+Background: In the outskirts of Ruby Caverns, a bunch of people have rebuilt the dungeon!
+
+Four types of items:
+Offensive Magic: Wands, raycasting in a straight line, piercing entities but not walls
+ - Fire Wand: deal light damage, and heavy damage on impact
+Defensive Magic: Casts, giving yourself buffs or other stuff
+ - Bubble Cast: become invulnerable for 3 seconds
+ - Warp Cast: re-roll the current room's items
+Offensive Human: Scrolls, use once to summon, cast or debuff anything really
+ - Dark Scroll: blind anything nearby
+Defensive Human: Potions, use once to buff, heal, or even points!
+ - Life Potion: fully heal, but become slower
+
+Conventional weapons too! No PvP. PvE only.
+Melee: Swords, Axes. Swing em to win em!
+Ranged: Bows, Crossbows. Shoot and loot to victory.
+
+Many rooms give random weapons or items. Some rooms allow you to refill, recharge or even upgrade your gear. Make it streamlined!!
+Minibosses give 1 item choice per player in the game, but the closest player can choose first, getting an advantage!
+
+NOT EXPLAINED:
+Three types of minibosses:
+Fortified (Warrior)
+- The Knight
+- Brightburn (a Blaze)
+- Titanium Fool
+- Final Boss: The Creator (like an Automaton)
+
+Enchanted (Mage)
+- The Warlock
+- Shadestorm (a Spirit)
+- Cursed Guardian
+- Final Boss: Failed Former
+
+Mindful (Thief)
+- The Druid
+- Deathcast (an Evoker)
+- Reaping Doom
+- Final Boss: Unit Requiem
+
+--------------------------------------------------
+"Wow!" Mao in Minecraft. 
+Every turn, a player must play an item. Each item has:
+- a type (wool, glass, dye, ore, tool, armor)
+- a color (red, yellow, green, blue, purple, black)
+- a count (one, two, three, four, five, six)
+So you have for example, a "four blue armor".
+Every round, you must play an item that matches at least one thing of the previous one. 
+On a "four blue armor", you can play any four item, any blue item or any armor item.
+
+But! There are rules, randomized each game, that players have to follow. Not obeying the rules results in a penalty!
+You can still play any item at any time- but if you play out of turn or don't follow the rules, it's rejected and you have to draw.
+Examples of the rules:
+- Wool items make the next player skip turn
+- Green items reverse turn order
+- Five-count items are wildcards, you can play anything on them
+But also things like:
+- You last card must be a two-count
+- Playing a yellow armor reveals a random rule to you
+- Turn time limit is 20 seconds
+
+Rounds go by fast. To make things worse, every time a round is won, the winning player may add a rule.
+The rule is chosen from three options, but only the winner knows it immediately!
+
+During the game, all of the following actions are available (but doing them wrong means penalty):
+- Play: right-click the item in your hand to attempt to play it
+- Draw: press a button (?) to draw a new item. Has no penalty, but there's an item limit.
+- Yell: press a button (?) to yell "Wow!". Has no penalty.
+
+The rules go in "batches". Each batch has many options, which makes it way more intesting.
+
+Item conditions [A]: random type, random color, random count
+Double item conditions [AA]: two of [A], exact same, last card
+Weak things [B]: next player must skip, reverse turn order, it counts as wildcard, next player must go within 5 seconds, you must yell, next player plays twice
+Strong things [C]: a random rule is revealed to you, everyone must yell, you must play again, next person must draw 2, ???, ???
+
+"When you play [A] item, then [B]."
+"When you play [AA] item, then [C]."
+"Your last card must be [A]."
+"You can play [AA] out of turn."
+"Turn limit is now 10/20/30/60 seconds."
+"Item limit is now 6/7/8/9 items."
+
+--------------------------------------------------
 "MAP_NAME"
 
 MESSAGE.WELCOME.1
@@ -129,6 +218,20 @@ RAAAAAAAAAAAAAAID!
 ------------------------------------------------------------------------------------------------------------------------
 Something like Slay the Spire. Or just any card game. Card games are extremely underrepresented. They can't be THAT hard to make, right?
 You can like do Mine cards, Craft cards, I don't know. Plenty of material to have fun with.
+
+Ideas: Equipment. Cards like "Attack" (Mainhand), "Defend" (Offhand), "Dodge" (Armor) and "Buff" (Relic) change when using Equipment.
+Example card: Shield, Equipment (Offhand). All Offhand cards get Defense, gaining 10 block.
+Example card: Energy Glove, Equipment (Offhand). All Offhand cards get Attack, dealing 5 damage and Shock.
+Example card: Bash (Offhand). Break 5 block, deal 5 damage. You get +10 Block with Shield active, and +5 damage and +Shock with Energy Glove active.
+Basically, change equipment during battle to change your cards.
+------------------------------------------------------------------------------------------------------------------------
+SCP-2521.
+http://www.scpwiki.com/scp-2521
+Introduce as a side villain.
+Show secret notes using no words but only pictures, that slowly reveal a mysterious unnamed thing...
+and anytime you try to mention it to an NPC, it takes you and kills you.
+Goal is to figure out its weakness, kill it, and finally document it for a large reward.
+
 ------------------------------------------------------------------------------------------------------------------------
 Maps to Review, Remake, Remaster:
 - TNTsweeper
